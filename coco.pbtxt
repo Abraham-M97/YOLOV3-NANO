@@ -1,0 +1,400 @@
+item {
+  id:1
+  name: 'person'
+}
+
+item {
+  id:2
+  name: 'bicycle'
+}
+
+item {
+  id:3
+  name: 'car'
+}
+
+item {
+  id:4
+  name: 'motorbike'
+}
+
+item {
+  id:5
+  name: 'aeroplane'
+}
+
+item {
+  id:6
+  name: 'bus'
+}
+
+item {
+  id:7
+  name: 'train'
+}
+
+item {
+  id:8
+  name: 'truck'
+}
+
+item {
+  id:9
+  name: 'boat'
+}
+
+item {
+  id:10
+  name: 'traffic light'
+}
+
+item {
+  id:11
+  name: 'fire hydrant'
+}
+
+item {
+  id:12
+  name: 'stop sign'
+}
+
+item {
+  id:13
+  name: 'parking meter'
+}
+
+item {
+  id:14
+  name: 'bench'
+}
+
+item {
+  id:15
+  name: 'bird'
+}
+
+item {
+  id:16
+  name: 'cat'
+}
+
+item {
+  id:17
+  name: 'dog'
+}
+
+item {
+  id:18
+  name: 'horse'
+}
+
+item {
+  id:19
+  name: 'sheep'
+}
+
+item {
+  id:20
+  name: 'cow'
+}
+
+item {
+  id:21
+  name: 'elephant'
+}
+
+item {
+  id:22
+  name: 'bear'
+}
+
+item {
+  id:23
+  name: 'zebra'
+}
+
+item {
+  id:24
+  name: 'giraffe'
+}
+
+item {
+  id:25
+  name: 'backpack'
+}
+
+item {
+  id:26
+  name: 'umbrella'
+}
+
+item {
+  id:27
+  name: 'handbag'
+}
+
+item {
+  id:28
+  name: 'tie'
+}
+
+item {
+  id:29
+  name: 'suitcase'
+}
+
+item {
+  id:30
+  name: 'frisbee'
+}
+
+item {
+  id:31
+  name: 'skis'
+}
+
+item {
+  id:32
+  name: 'snowboard'
+}
+
+item {
+  id:33
+  name: 'sports ball'
+}
+
+item {
+  id:34
+  name: 'kite'
+}
+
+item {
+  id:35
+  name: 'baseball bat'
+}
+
+item {
+  id:36
+  name: 'baseball glove'
+}
+
+item {
+  id:37
+  name: 'skateboard'
+}
+
+item {
+  id:38
+  name: 'surfboard'
+}
+
+item {
+  id:39
+  name: 'tennis racket'
+}
+
+item {
+  id:40
+  name: 'bottle'
+}
+
+item {
+  id:41
+  name: 'wine glass'
+}
+
+item {
+  id:42
+  name: 'cup'
+}
+
+item {
+  id:43
+  name: 'fork'
+}
+
+item {
+  id:44
+  name: 'knife'
+}
+
+item {
+  id:45
+  name: 'spoon'
+}
+
+item {
+  id:46
+  name: 'bowl'
+}
+
+item {
+  id:47
+  name: 'banana'
+}
+
+item {
+  id:48
+  name: 'apple'
+}
+
+item {
+  id:49
+  name: 'sandwich'
+}
+
+item {
+  id:50
+  name: 'orange'
+}
+
+item {
+  id:51
+  name: 'broccoli'
+}
+
+item {
+  id:52
+  name: 'carrot'
+}
+
+item {
+  id:53
+  name: 'hot dog'
+}
+
+item {
+  id:54
+  name: 'pizza'
+}
+
+item {
+  id:55
+  name: 'donut'
+}
+
+item {
+  id:56
+  name: 'cake'
+}
+
+item {
+  id:57
+  name: 'chair'
+}
+
+item {
+  id:58
+  name: 'sofa'
+}
+
+item {
+  id:59
+  name: 'pottedplant'
+}
+
+item {
+  id:60
+  name: 'bed'
+}
+
+item {
+  id:61
+  name: 'diningtable'
+}
+
+item {
+  id:62
+  name: 'toilet'
+}
+
+item {
+  id:63
+  name: 'tvmonitor'
+}
+
+item {
+  id:64
+  name: 'laptop'
+}
+
+item {
+  id:65
+  name: 'mouse'
+}
+
+item {
+  id:66
+  name: 'remote'
+}
+
+item {
+  id:67
+  name: 'keyboard'
+}
+
+item {
+  id:68
+  name: 'cell phone'
+}
+
+item {
+  id:69
+  name: 'microwave'
+}
+
+item {
+  id:70
+  name: 'oven'
+}
+
+item {
+  id:71
+  name: 'toaster'
+}
+
+item {
+  id:72
+  name: 'sink'
+}
+
+item {
+  id:73
+  name: 'refrigerator'
+}
+
+item {
+  id:74
+  name: 'book'
+}
+
+item {
+  id:75
+  name: 'clock'
+}
+
+item {
+  id:76
+  name: 'vase'
+}
+
+item {
+  id:77
+  name: 'scissors'
+}
+
+item {
+  id:78
+  name: 'teddy bear'
+}
+
+item {
+  id:79
+  name: 'hair drier'
+}
+
+item {
+  id:80
+  name: 'toothbrush'
+}
+
