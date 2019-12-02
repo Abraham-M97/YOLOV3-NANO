@@ -1,5 +1,5 @@
 ##Attention：The following instruction is for yolov3,not yolov3-nano.But the documents are the same,and the operations
-##           are also the same.And thanks for YunYang1994,cause I only changed the model and some other parts.
+##are also the same.And thanks for YunYang1994,cause I only changed the model and some other parts.
 
 ## part 1. Introduction
 
